@@ -1,4 +1,4 @@
-h1{
+h1 {
   border-color: #94416c;
   border-style: dashed;
 }
@@ -6,4 +6,18 @@ h1{
 body { 
   color: #ffbfe0;
   background-color: #b59fab;
+  font-family:'Serif', Garamond; 
+}
+
+h2 {
+  border-color: #94416c;
+  border-style: dotted; 
+}
+
+ul {
+  list-style-type: "☆"; 
+}
+
+img {
+  width: 256px; 
 }

@@ -30,4 +30,4 @@ npm test
 
 ## Running the Project 
 
-For this project, I used the live preview to run my site. I recommend opening up the project folder into VSCode and opening up a live preview from the index.html! 
+For this project, I used the live preview to run my site. I recommend opening up the project folder into VSCode and opening up a live preview from the index.html! Or, you can run it without debugging!

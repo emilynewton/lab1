@@ -27,3 +27,7 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Running the Project 
+
+For this project, I used the live preview to run my site. I recommend opening up the project folder into VSCode and opening up a live preview from the index.html! 
